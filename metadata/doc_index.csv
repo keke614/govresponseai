@@ -1,0 +1,8 @@
+doc_id,country,title,issuing_body,date,url,format,notes
+us_doc1,US,AI Risk Management Framework 1.0,NIST,2023-01-26,https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf,pdf,core framework
+us_doc2,US,Blueprint for an AI Bill of Rights,OSTP/White House,2022-10-04,https://marketingstorageragrs.blob.core.windows.net/webfiles/Blueprint-for-an-AI-Bill-of-Rights.pdf,pdf,principles doc
+us_doc3,US,OMB M-24-10: AI Governance & Risk Mgmt,OMB,2024-03-28,https://www.whitehouse.gov/wp-content/uploads/2024/03/M-24-10-Advancing-Governance-Innovation-and-Risk-Management-for-Agency-Use-of-Artificial-Intelligence.pdf,pdf,agency AI use governance memo
+us_doc4,US,OMB M-24-18: Responsible AI Acquisition,OMB,2024-09-24,https://www.whitehouse.gov/wp-content/uploads/2024/10/M-24-18-AI-Acquisition-Memorandum.pdf,pdf,AI procurement memo
+us_doc5,US,NIST AI 600-1: GenAI Profile,NIST,2024-07-01,https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf,pdf,GenAI risk profile companion to AI RMF
+us_doc6,US,NIST AI RMF Playbook,NIST,2023-03-30,https://airc.nist.gov/docs/AI_RMF_Playbook.pdf,pdf,implementation playbook
+us_doc7,US,NIST SP 800-218 SSDF,NIST,2022-02-03,https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-218.pdf,pdf,governance/assurance framework baseline

@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+certifi
+beautifulsoup4
+lxml
+pdfplumber
+matplotlib
+scikit-learn
+sentence-transformers
