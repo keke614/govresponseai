@@ -1,0 +1,15 @@
+type,name,file
+table,Corpus overview,table_corpus_overview.csv
+table,Country corpus summary,table_country_corpus_summary.csv
+table,Country keyword summary,table_country_summary.csv
+table,Document keyword summary,table_doc_summary.csv
+table,Representative snippets,table_representative_snippets.csv
+table,Failed docs,table_failed_docs.csv
+table,Keyword dictionary,table_keyword_dictionary.csv
+figure,Method pipeline,fig_method_pipeline.png
+figure,Document chunk lollipop,fig_doc_chunk_lollipop.png
+figure,Chunks by country,fig_chunks_by_country.png
+figure,Country dumbbell,fig_country_dumbbell.png
+figure,Country radar,fig_country_radar.png
+figure,Document category heatmap,fig_doc_category_heatmap.png
+figure,Document ranking by oversight,fig_top_docs_oversight.png

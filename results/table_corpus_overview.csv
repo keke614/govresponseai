@@ -1,0 +1,19 @@
+doc_id,country,title,issuing_body,date,url,format,notes,n_chunks
+us_doc1,US,AI Risk Management Framework 1.0,NIST,2023-01-26,https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf,pdf,core framework,218
+us_doc2,US,Blueprint for an AI Bill of Rights,OSTP/White House,2022-10-04,https://marketingstorageragrs.blob.core.windows.net/webfiles/Blueprint-for-an-AI-Bill-of-Rights.pdf,pdf,principles doc,489
+us_doc3,US,OMB M-24-10: AI Governance & Risk Mgmt,OMB,2024-03-28,https://www.whitehouse.gov/wp-content/uploads/2024/03/M-24-10-Advancing-Governance-Innovation-and-Risk-Management-for-Agency-Use-of-Artificial-Intelligence.pdf,pdf,agency AI use governance memo,221
+us_doc4,US,OMB M-24-18: Responsible AI Acquisition,OMB,2024-09-24,https://www.whitehouse.gov/wp-content/uploads/2024/10/M-24-18-AI-Acquisition-Memorandum.pdf,pdf,AI procurement memo,243
+us_doc5,US,NIST AI 600-1: GenAI Profile,NIST,2024-07-01,https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf,pdf,GenAI risk profile companion to AI RMF,349
+us_doc6,US,NIST AI RMF Playbook,NIST,2023-03-30,https://airc.nist.gov/docs/AI_RMF_Playbook.pdf,pdf,implementation playbook,728
+us_doc7,US,NIST SP 800-218 SSDF,NIST,2022-02-03,https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-218.pdf,pdf,governance/assurance framework baseline,233
+cn_algo_2022,CN,互联网信息服务算法推荐管理规定,CAC+MIIT+MPS+SAMR,2021-12-31,https://www.cac.gov.cn/2022-01/04/c_1642894606364259.htm,html,algorithm recommendation regulation,11
+cn_genai_2023,CN,生成式人工智能服务管理暂行办法,CAC,2023-07-13,https://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm,html,interim measures for genAI services,9
+cn_deepsynthesis_2022,CN,互联网信息服务深度合成管理规定,CAC+MIIT+MPS,2022-12-11,https://www.cac.gov.cn/2022-12/11/c_1672221949354811.htm,html,deep synthesis regulation,9
+cn_labeling_2025,CN,人工智能生成合成内容标识办法,CAC+MIIT+MPS+NRTA,2025-03-14,https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm,html,AI-generated content labeling measures,6
+cn_cybersecuritylaw_2016,CN,中华人民共和国网络安全法,全国人大常委会,2016-11-07,https://www.cac.gov.cn/2016-11/07/c_1119867116.htm,html,cybersecurity law,6
+cn_datasecuritylaw_2021,CN,中华人民共和国数据安全法,全国人大常委会,2021-06-10,https://www.npc.gov.cn/npc//c2/c30834/202106/t20210610_311888.html,html,data security law,0
+cn_pipl_2021,CN,中华人民共和国个人信息保护法,全国人大常委会,2021-08-20,https://www.cac.gov.cn/2021-08/20/c_1631050028355286.htm,html,personal information protection law,21
+cn_aisafetyframework2_2025,CN,人工智能安全治理框架2.0,TC260+国家计算机网络应急技术处理协调中心,2025-09-15,https://www.tc260.org.cn/upload/2025-09-15/1757911253996041369.pdf,pdf,AI safety governance framework 2.0,194
+cn_caict_aigovreport_2026,CN,人工智能安全治理研究报告（2025年）——推进人工智能安全治理产业实践框架,中国信息通信研究院,2026-01-09,https://www.caict.ac.cn/kxyj/qwfb/bps/202601/P020260109784447548497.pdf,pdf,CAICT AI safety governance report 2025,73
+cn_aiwhitepaper_2025,CN,人工智能安全治理白皮书（2025）,中国联通+华为+百度+360等,2025-07-01,https://pdf.dfcfw.com/pdf/H3_AP202508051721756226_1.pdf?1754387386000.pdf,pdf,AI safety governance white paper 2025,113
+cn_huawei_aisystem_cybersec_2024,CN,AI系统的网络安全治理实践,华为技术有限公司,2024-09-01,https://www-file.huawei.com/-/media/corp2020/pdf/trust-center/a_look_at_effective_ways_for_ai_system_security_and_privacy_cn.pdf,pdf,Huawei AI system cybersecurity governance practice,40
